@@ -1,7 +1,8 @@
-title:Random Roll Wishlist Rolls from Content Creators
+title:Wishlist Rolls from Content Creators
+description:A bunch of high tier pve pvp rolls from various content creators
 
-title:Datto's Neomuna Whishlist
-description:Destiny 2: The Best Neomuna & Terminal Overload Weapon Perk Rolls - https://www.youtube.com/watch?v=JlV7QZ5P0Mk
+##Datto's Neomuna Whishlist
+##Destiny 2: The Best Neomuna & Terminal Overload Weapon Perk Rolls - https://www.youtube.com/watch?v=JlV7QZ5P0Mk
 
 #PvE Rolls
 #Round Robin
