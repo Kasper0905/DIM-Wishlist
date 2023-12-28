@@ -74,3 +74,8 @@ dimwishlist:item=871900124&perks=1332244541,791862061,706527188,957782887,930692
 
 #Tigerspite
 dimwishlist:item=2465372924&perks=839105230,1885400500,1820235745,3891536761,930692523,1590375893,1588595445
+
+
+#Aztecross 2023 Dawning God Rolls
+##Glacioclasm Got Even BETTER (Dawning Fusion Rifle) | Destiny 2 Season of the Wish - https://www.youtube.com/watch?v=8Q2whylP3RM
+dimwishlist:item=2728851518&perks=1482024992,689005463,3643424744,1427256713,4264904777
