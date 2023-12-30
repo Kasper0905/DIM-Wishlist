@@ -79,3 +79,13 @@ dimwishlist:item=2465372924&perks=839105230,1885400500,1820235745,3891536761,930
 #Aztecross 2023 Dawning God Rolls
 ##Glacioclasm Got Even BETTER (Dawning Fusion Rifle) | Destiny 2 Season of the Wish - https://www.youtube.com/watch?v=8Q2whylP3RM
 dimwishlist:item=2728851518&perks=1482024992,689005463,3643424744,1427256713,4264904777
+
+
+#Datto Guns to get before TFS
+##Get these crafted weapon patterns before The Final Shape please. - https://www.youtube.com/watch?v=TTZLxau7WmY
+
+#Regnant
+dimwishlist:item=268260372&perks=3798852852,1771897777,3301904089,968510818,3300816228,3194351027,424370782,331667533
+
+#Royal Executioner
+dimwishlist:item=1720503118&perks=839105230,689005463,1687452232,968510818,1427256713
