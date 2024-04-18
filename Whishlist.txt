@@ -463,7 +463,7 @@ dimwishlist:item=2763843898&perks=4090651448,106909392,3824105627,3425386926
 dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,1890422124#notes:[PvP] - Aztecross God Roll with Range MW
 
 //ELSIE'S RIFLE
-//[PVP] - Aztecross's God Rolls
+//notes:[PVP] - Aztecross's God Rolls
 dimwishlist:item=2372514509&perks=1467527085,1561002382,2387244414,460017080
 dimwishlist:item=2372514509&perks=1467527085,1885400500,2387244414,460017080
 dimwishlist:item=2372514509&perks=1467527085,1561002382,3619207468,460017080
@@ -474,7 +474,7 @@ dimwishlist:item=1815105249&perks=2396489472,2077819806#notes:[PvP] - Aztecross 
 dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201#notes:[PvE] - Aztecross God Roll
 
 //EDGE TRANSIT
-//[PvE] - Aztecross God Rolls
+//notes:[PvE] - Aztecross God Rolls
 dimwishlist:item=568611923&perks=968510818,3194351027
 dimwishlist:item=568611923&perks=3751912585,3194351027
 dimwishlist:item=568611923&perks=968510818,3078487919
@@ -483,18 +483,18 @@ dimwishlist:item=568611923&perks=3751912585,3078487919
 dimwishlist:item=568611923&perks=409831596,951095735,2888557110
 
 //Succession
-//Aztecross's Interesting Roll - Otherwise use crafted version
+//notes:Aztecross's Interesting Roll - Otherwise use crafted version
 dimwishlist:item=3612338554&perks=3978468247,3201496230
 
 //HUNG JURY SR4
-//[PvE] - Aztecross's God Roll
+//notes:[PvE] - Aztecross's God Roll
 dimwishlist:item=1453235079&perks=3891536761,3038247973
-//[PvP] - Aztecross's God Rolls
+//notes:[PvP] - Aztecross's God Rolls
 dimwishlist:item=1453235079&perks=2866798147,2551157718
 dimwishlist:item=1453235079&perks=247725512,2551157718
 
 //THE MOUNTAINTOP
-//[PvE] - Aztecross's God Rolls
+//notes:[PvE] - Aztecross's God Rolls
 dimwishlist:item=568611922&perks=1441682018,3301904089,2010801679,469285294
 dimwishlist:item=568611922&perks=568611922,3301904089,2010801679,469285294
 dimwishlist:item=568611922&perks=3798852852,3301904089,2010801679,469285294
@@ -507,13 +507,13 @@ dimwishlist:item=568611922&perks=3798852852,3301904089,3643424744,469285294
 dimwishlist:item=568611922&perks=1441682018,2822142346,3643424744,469285294
 dimwishlist:item=568611922&perks=568611922,2822142346,3643424744,469285294
 dimwishlist:item=568611922&perks=3798852852,2822142346,3643424744,469285294
-//[PvP] - Aztecross's God Roll
+//notes:[PvP] - Aztecross's God Roll
 dimwishlist:item=568611922&perks=3373736292,3300816228,438098033
 
 //MIDNIGHT COUP
-//[PvE] - Aztecross's Top God Roll
+//notes:[PvE] - Aztecross's Top God Roll
 dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,2387244414
-//[PvE] - Aztecross's God Rolls
+//notes:[PvE] - Aztecross's God Rolls
 dimwishlist:item=2763843898&perks=3250034553,3142289711,588594999,2387244414
 dimwishlist:item=2763843898&perks=3250034553,3142289711,588594999,47981717
 dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,47981717
