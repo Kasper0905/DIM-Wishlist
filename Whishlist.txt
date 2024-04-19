@@ -479,7 +479,7 @@ dimwishlist:item=568611923&perks=968510818,3194351027
 dimwishlist:item=568611923&perks=3751912585,3194351027
 dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=3751912585,3078487919
-//[PvP] - Aztecross's God Roll - First column perk anything +velocity
+//notes:[PvP] - Aztecross's God Roll - First column perk anything +velocity
 dimwishlist:item=568611923&perks=409831596,951095735,2888557110
 
 //Succession
